@@ -1,6 +1,8 @@
 import { Component } from 'react';
 import './App.css';
 import bags from './data/bags';
+import Sound from 'react-sound';
+import sza from './audioclips/sza.mp3';
 
 
 class App extends Component {
